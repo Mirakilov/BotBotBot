@@ -1,1 +1,1 @@
-worker: sh target\bin\workBot
+worker: sh target/bin/workerBot
