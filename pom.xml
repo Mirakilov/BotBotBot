@@ -28,7 +28,7 @@
                             <mainClass>
                                 com.home.server.Bot
                             </mainClass>
-                            <name>workBot</name>
+                            <name>workerBot</name>
                         </program>
                     </programs>
                 </configuration>
